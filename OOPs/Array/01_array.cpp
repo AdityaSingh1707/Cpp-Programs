@@ -44,8 +44,3 @@ Array Array::add(Array temp)
 
     return res;
 }
-
-void access_class_member(Array ob)
-{
-    cout<<"Size of array :  "<<ob.size<<endl;
-}
